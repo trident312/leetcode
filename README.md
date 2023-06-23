@@ -1,5 +1,5 @@
 # leetcode
-Some basic leetcode problems you may encounter. 
+Problems (from leetcode.com)
 
 1. Anagram: Given two strings s and t, return true if t is an anagram of s, and false otherwise. 
 
